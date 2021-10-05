@@ -3,7 +3,7 @@
 ## RISC
 ### COURS
 ---------
-#### WIFI
+
 [WIFI](https://drive.google.com/drive/folders/0B9fj93mCrxamVFlhY1Q3VnJEc1E?resourcekey=0-9EAflIBkxwJ4RaW55VGLsw&usp=sharing)
 ### TD
 ----------
@@ -19,6 +19,8 @@
 [Youtube Scripting Linux](https://www.youtube.com/watch?v=qblHERouR7A&list=PLkW6qBuit1un5mnx0mMPysn-g8Eo9mRE1) --
 [Youtube Scripting Math linux](https://www.youtube.com/watch?v=-1fv2OboV08&list=PLkW6qBuit1umBfPb8-cH_C-sgvawtaVqu) --
 
+
+[Youtube Multiboot USB](https://youtube.com/playlist?list=PLkW6qBuit1ukyX32YBvTeDvVpgs3K6cR3)--
 #### Cisco
 [Ressources Cisco](https://drive.google.com/drive/folders/0B9fj93mCrxambUZDS3dHeU81QXM?resourcekey=0-9jh48_rEDtxEpC91DvPmTQ)
 
