@@ -34,6 +34,11 @@
 [Ressources Cisco](https://drive.google.com/drive/folders/0B9fj93mCrxambUZDS3dHeU81QXM?resourcekey=0-9jh48_rEDtxEpC91DvPmTQ)
 
 
+
+#### Math
+
+[Math in BASH 2](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/HyzcdvpVY)
+
 #### Suivi
 [Term trim1](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/HJi3EAHfF) --
 [1er Trim1](https://hackmd.io/6J-NM5nzQq-U7gNx3F2mAA?both)
