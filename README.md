@@ -7,8 +7,7 @@
 
 [OSI](https://drive.google.com/drive/folders/0B9fj93mCrxamRjNJQjBwM3pYY28?resourcekey=0-cnjQXpBSQX7cBa1V-AZOCg&usp=sharing)
 
-[IPV4](https://drive.google.com/drive/folders/0B9fj93mCrxamVjJYN0g0NHJKX0k?resourcekey=0-H61W4ktWqksS2kAw_7JLnA&usp=sharing) --  
-[IPV6](https://drive.google.com/drive/folders/0B9fj93mCrxamVjJYN0g0NHJKX0k?resourcekey=0-H61W4ktWqksS2kAw_7JLnA&usp=sharing)
+[IPV4](https://drive.google.com/drive/folders/0B9fj93mCrxamVjJYN0g0NHJKX0k?resourcekey=0-H61W4ktWqksS2kAw_7JLnA&usp=sharing) --  [IPV6](https://drive.google.com/drive/folders/0B9fj93mCrxamVjJYN0g0NHJKX0k?resourcekey=0-H61W4ktWqksS2kAw_7JLnA&usp=sharing)
 
 [WIFI](https://drive.google.com/drive/folders/0B9fj93mCrxamVFlhY1Q3VnJEc1E?resourcekey=0-9EAflIBkxwJ4RaW55VGLsw&usp=sharing)
 ### TD
