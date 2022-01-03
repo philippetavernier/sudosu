@@ -10,6 +10,11 @@
 [IPV4](https://drive.google.com/drive/folders/0B9fj93mCrxamVjJYN0g0NHJKX0k?resourcekey=0-H61W4ktWqksS2kAw_7JLnA&usp=sharing) --  [IPV6](https://drive.google.com/drive/folders/0B9fj93mCrxamVjJYN0g0NHJKX0k?resourcekey=0-H61W4ktWqksS2kAw_7JLnA&usp=sharing)
 
 [WIFI](https://drive.google.com/drive/folders/0B9fj93mCrxamVFlhY1Q3VnJEc1E?resourcekey=0-9EAflIBkxwJ4RaW55VGLsw&usp=sharing)
+
+[Routage](https://drive.google.com/drive/folders/0B9fj93mCrxamUzZoeXNIRTBCU3M?resourcekey=0-rg40sVIWtqx3WPv_Hkxxew&usp=sharing) --
+[NAT - PAT](https://drive.google.com/drive/folders/0B9fj93mCrxamSjZIc2RDQVNIQms?resourcekey=0-ZlQiM3-rj6OtuAJQk6Cu0A&usp=sharing)
+
+[VOIP](https://drive.google.com/drive/folders/0B9fj93mCrxamQ3pZNmtIYU1PcGc?resourcekey=0-9aRXeLRCYOWk6PfE4gFHwg&usp=sharing)
 ### TD
 ----------
 [WIFI](https://drive.google.com/drive/folders/0B9fj93mCrxamekRHb0RYVjBaRms?resourcekey=0-0OvvjN27-H_D3juwZO7l3A&usp=sharing)
