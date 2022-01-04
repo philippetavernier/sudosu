@@ -61,5 +61,5 @@
 [Math in BASH 2](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/HyzcdvpVY)
 
 #### Suivi
-[Term trim1](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/HJi3EAHfF) --
-[1er Trim1](https://hackmd.io/6J-NM5nzQq-U7gNx3F2mAA?both)
+[Term trim1](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/HJi3EAHfF) -- [suivi Term](https://docs.google.com/spreadsheets/d/e/2PACX-1vSakljoUm8EXD8BGjqezDPIfCKABka09xvWvfs7n3iJJ6HwaZhA4EskUCJNFOiBbjTGs0PB2eO7p7xm/pubhtml?gid=0&single=true)
+[1er Trim1](https://hackmd.io/6J-NM5nzQq-U7gNx3F2mAA?both) -- [suivi 1er](https://docs.google.com/spreadsheets/d/e/2PACX-1vS3KlwKSPRw1OhMCiOxRYVN6S_ElQF5DMNB6tdNpxvMsLdctrQJ6I3WCpejmzPO91LFWtkzzPxfL3d3/pubhtml?gid=0&single=true)
