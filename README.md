@@ -26,7 +26,6 @@
 
 ### TD
 ----------
-[WIFI](https://drive.google.com/drive/folders/0B9fj93mCrxamekRHb0RYVjBaRms?resourcekey=0-0OvvjN27-H_D3juwZO7l3A&usp=sharing)
 
 [Analyse de trame](https://drive.google.com/file/d/0B9fj93mCrxamUGVWY0QyYUhpdkk/view?resourcekey=0-t2U-dDM0RS1qWIMTcuVXLQ) ---
 [ANNEXE analyse de trames](https://drive.google.com/file/d/0B9fj93mCrxamb0hBVFRzem9VR1k/view?resourcekey=0-uWBQIFJ5kIZIhgqljVDJLQ)
@@ -34,8 +33,11 @@
 [Conversion](https://drive.google.com/drive/folders/0B9fj93mCrxamQ1dkWVpFZVhiMlE?resourcekey=0-2BVBkVPiPwNzOQdbhfu5Ig&usp=sharing)
 [Cablage](https://drive.google.com/drive/folders/0B9fj93mCrxamWGVhdlZpYVhOdWM?resourcekey=0-KRpePphozfsUmmh4iSBTAw&usp=sharing) --  [Fibre](https://drive.google.com/drive/folders/0B9fj93mCrxamLW1YVW5rdWFzRWs?resourcekey=0-hWMvXK7wluu2yiciwZXbAA&usp=sharing)
 
-[Ethernet](https://drive.google.com/drive/folders/0B9fj93mCrxamWk5neExUcFQzNG8?resourcekey=0-rB4KUznrcgu2E-b-5SE-vw&usp=sharing)
-[ADSL](https://drive.google.com/drive/folders/0B9fj93mCrxamN1hyMGZnTGs4OFU?resourcekey=0-iEWX_CzfYFNLrgY_mD6-3w&usp=sharing)
+[Ethernet](https://drive.google.com/drive/folders/0B9fj93mCrxamWk5neExUcFQzNG8?resourcekey=0-rB4KUznrcgu2E-b-5SE-vw&usp=sharing) -- [WIFI](https://drive.google.com/drive/folders/0B9fj93mCrxamekRHb0RYVjBaRms?resourcekey=0-0OvvjN27-H_D3juwZO7l3A&usp=sharing) -- [ADSL](https://drive.google.com/drive/folders/0B9fj93mCrxamN1hyMGZnTGs4OFU?resourcekey=0-iEWX_CzfYFNLrgY_mD6-3w&usp=sharing)
+
+[Commutation](https://drive.google.com/drive/folders/0B9fj93mCrxamVE8zX3BWNFZJbk0?resourcekey=0-1ME8DiyjiZFf2nKoKoX5XQ&usp=sharing)
+[Vlan](https://drive.google.com/drive/folders/0B9fj93mCrxamUXdmZld1OWZPWE0?resourcekey=0-PkmQpT6jgGZ3E1-QGoNs7g&usp=sharing)
+
 
 ### Revision
 [Révision](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/HyzzRuVCv)
