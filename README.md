@@ -50,8 +50,9 @@
 
 
 ### Revision
-[Révision](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/HyzzRuVCv)
-[Révision Bac blanc](https://drive.google.com/drive/folders/1CnJQs6rEdv6tVHbOtSMsuBEK3vpMznPm?usp=sharing)
+[Révision](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/HyzzRuVCv) -- 
+[Révision Bac blanc](https://drive.google.com/drive/folders/1CnJQs6rEdv6tVHbOtSMsuBEK3vpMznPm?usp=sharing) --
+
 [sujet 2021](https://drive.google.com/drive/folders/1VwdEaO2TIu1uS_6-71mhGc3avHGrhNRb?usp=sharing)
 
 ### TP
