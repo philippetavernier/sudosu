@@ -77,7 +77,8 @@
 
 [SERVICE SAMBA/NFS](https://hackmd.io/g9aN3idWSNKx-ZnxOhW-jA)
 
-[SERVICE VNC RDP](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/SJrkDs4W5)
+[SERVICE VNC RDP](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/SJrkDs4W5) [AIDE RDP](https://www.youtube.com/playlist?list=PLkW6qBuit1ulwcMAC70qoxO1nLwOoXzaj)
+[AIDE VNC](https://www.youtube.com/playlist?list=PLkW6qBuit1ulY039DoppcI72zmovm5Hpg)
 
 #### Installation OS
 [Youtube Multiboot USB](https://youtube.com/playlist?list=PLkW6qBuit1ukyX32YBvTeDvVpgs3K6cR3)--
