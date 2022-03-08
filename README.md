@@ -75,7 +75,9 @@
 [APACHE](https://drive.google.com/file/d/0B9fj93mCrxamdUpVa0hWVFhSMlE/view?usp=sharing&resourcekey=0-v3WEWDq9ZjTFuiNxu1QNEw)
 
 
-[SERVICE](https://hackmd.io/g9aN3idWSNKx-ZnxOhW-jA)
+[SERVICE SAMBA/NFS](https://hackmd.io/g9aN3idWSNKx-ZnxOhW-jA)
+
+[SERVICE VNC RDP](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/SJrkDs4W5)
 
 #### Installation OS
 [Youtube Multiboot USB](https://youtube.com/playlist?list=PLkW6qBuit1ukyX32YBvTeDvVpgs3K6cR3)--
