@@ -92,6 +92,7 @@
 [Math in BASH 2](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/HyzcdvpVY)
 
 [Ressource Python](https://drive.google.com/drive/folders/0B9fj93mCrxamcTRVcWk3OHE5UEk?resourcekey=0-wC-2BcMAMyoofFm5pD92VA&usp=sharing)
+-- [Notes Python](https://hackmd.io/kJEgd74zR-GO1k6NPl_jTg)
 
 
 #### Test
