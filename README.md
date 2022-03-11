@@ -91,6 +91,8 @@
 
 [Math in BASH 2](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/HyzcdvpVY)
 
+[Ressource Python](https://drive.google.com/drive/folders/0B9fj93mCrxamcTRVcWk3OHE5UEk?resourcekey=0-wC-2BcMAMyoofFm5pD92VA&usp=sharing)
+
 
 #### Test
 [Histo](https://docs.google.com/forms/d/e/1FAIpQLSdFnDfw58SEMSgVxAM_veg1KIg3ZZZRsBHV4LO9LY3GMgcZAA/viewform)
