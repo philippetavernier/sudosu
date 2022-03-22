@@ -74,7 +74,7 @@
 
 [APACHE](https://drive.google.com/file/d/0B9fj93mCrxamdUpVa0hWVFhSMlE/view?usp=sharing&resourcekey=0-v3WEWDq9ZjTFuiNxu1QNEw) --> {[APACHE](https://www.youtube.com/playlist?list=PLkW6qBuit1umAOvnWEVMlcYK7Yf6CMJZQ)}
 
-{[DOCKER](https://www.youtube.com/playlist?list=PLkW6qBuit1ukC52akLZfGkdxN8ElXS-e5)}
+-->{[DOCKER](https://www.youtube.com/playlist?list=PLkW6qBuit1ukC52akLZfGkdxN8ElXS-e5)}
 
 
 [SERVICE SAMBA/NFS](https://hackmd.io/g9aN3idWSNKx-ZnxOhW-jA)
