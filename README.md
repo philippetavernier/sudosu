@@ -40,6 +40,7 @@
 
 [IPv4](https://drive.google.com/drive/folders/0B9fj93mCrxamcDA3YTBnM2FjR00?resourcekey=0-__VdKWSgYEIhTbZ0OvjyTw&usp=sharing)
 [IPv6](https://drive.google.com/drive/folders/0B9fj93mCrxamcDA3YTBnM2FjR00?resourcekey=0-__VdKWSgYEIhTbZ0OvjyTw&usp=sharing)
+[IPV4SSR](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/B1rcLcfNq)
 [Routage](https://drive.google.com/drive/folders/0B9fj93mCrxamWnNXdTBmODNSYjA?resourcekey=0-Bu6UlKm7_9uKfspm7zl_aA&usp=sharing)
 [arp, dns](https://drive.google.com/drive/folders/0B9fj93mCrxamRTNrN19fU3N2T0E?resourcekey=0-r_3ExuLrU_iYHC4aQfvpLA&usp=sharing)
 [Firewall](https://drive.google.com/drive/folders/0B9fj93mCrxamN0xZdlJ6dlhZLVU?resourcekey=0-ywm0vq-_m0NF7d2OFjm_9Q&usp=sharing)
