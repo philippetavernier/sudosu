@@ -67,6 +67,7 @@
 [Youtube Bash Linux](https://www.youtube.com/playlist?list=PLkW6qBuit1ulKWw8vDeAm1y60Z6gkcgYB) --
 [Youtube Scripting Linux](https://www.youtube.com/watch?v=qblHERouR7A&list=PLkW6qBuit1un5mnx0mMPysn-g8Eo9mRE1) --
 [Youtube Scripting Math linux](https://www.youtube.com/watch?v=-1fv2OboV08&list=PLkW6qBuit1umBfPb8-cH_C-sgvawtaVqu) --
+[Bash extended](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/S1CDMxAli)
 
 #### Service réseau
 [SSH](https://drive.google.com/drive/folders/0B9fj93mCrxamM1U0bk9rTHJlSE0?resourcekey=0-nG-bfkjVR-rV5dgZSZ0iLg&usp=sharing)  --
