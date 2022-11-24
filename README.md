@@ -94,6 +94,8 @@
 
 [USB MULTIBOT](https://www.youtube.com/watch?v=xEoZL-Ai45Y)
 
+[GEPI](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/BJlZNZaIo)
+
 #### Installation OS
 [Youtube Multiboot USB](https://youtube.com/playlist?list=PLkW6qBuit1ukyX32YBvTeDvVpgs3K6cR3)--
 #### Cisco
