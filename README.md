@@ -80,7 +80,7 @@
 [APACHE](https://drive.google.com/file/d/0B9fj93mCrxamdUpVa0hWVFhSMlE/view?usp=sharing&resourcekey=0-v3WEWDq9ZjTFuiNxu1QNEw) --> {[APACHE](https://www.youtube.com/playlist?list=PLkW6qBuit1umAOvnWEVMlcYK7Yf6CMJZQ)}
 
 
-[Service FTP](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/HkmvL3_ds)
+[FTP](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/HkmvL3_ds)
 
 [DOCKER](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/SJJbuSwG9)-->{[DOCKER](https://www.youtube.com/playlist?list=PLkW6qBuit1ukC52akLZfGkdxN8ElXS-e5)}
 
