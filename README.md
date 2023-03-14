@@ -96,7 +96,7 @@
 [VOIP](https://drive.google.com/drive/folders/0B9fj93mCrxamV0hhREZPdUEtT0E?resourcekey=0-63yOySytkv7kO3-CjinuPA&usp=sharing)  --  [{VOIP}](https://drive.google.com/drive/folders/0B9fj93mCrxamYjRvOUYtY3Jqc1U?resourcekey=0-OMPFaA6oScpcOvtSLKDeeA&usp=sharing)
 
 
-[LOCQL STORAGE](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/HJKMuU37q)
+[LOCAL STORAGE](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/HJKMuU37q)
 
 [USB MULTIBOT](https://www.youtube.com/watch?v=xEoZL-Ai45Y)
 
