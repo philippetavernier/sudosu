@@ -101,6 +101,7 @@
 [USB MULTIBOT](https://www.youtube.com/watch?v=xEoZL-Ai45Y)
 
 [GEPI](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/BJlZNZaIo)
+[Bruteforce](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/rk_tOcUz2)
 
 #### Installation OS
 [Youtube Multiboot USB](https://youtube.com/playlist?list=PLkW6qBuit1ukyX32YBvTeDvVpgs3K6cR3)--
