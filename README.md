@@ -59,6 +59,9 @@
 [Révision Bac blanc](https://drive.google.com/drive/folders/1CnJQs6rEdv6tVHbOtSMsuBEK3vpMznPm?usp=sharing) --
 
 [sujet 2021](https://drive.google.com/drive/folders/1VwdEaO2TIu1uS_6-71mhGc3avHGrhNRb?usp=sharing)
+[sujet 2022](https://drive.google.com/drive/folders/1OiAtLuJh6iFlZ9MlvvI5vPt3rUfBTvVb?usp=sharing)
+
+
 
 ### TP
 ---------
