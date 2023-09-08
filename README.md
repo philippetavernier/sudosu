@@ -148,6 +148,10 @@
 
 [Reponses synthèse article 1](https://docs.google.com/forms/d/e/1FAIpQLSfEgOYaDk83si3XPWIruICu5vm5X5S58KZDNekySmtSrt3Qkw/viewform?usp=pp_url)
 
+### CHEF d'OEUVRE
+[Boite à idées Chef d'oeuvre](https://chat.openai.com/share/0058f9ca-e855-448e-8cc9-eeddc6a629bb
+)
+
 
 ## STAGE - SUIVI - GUIDE
 
