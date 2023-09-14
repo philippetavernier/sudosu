@@ -54,7 +54,7 @@
 
 [QUIZZ](https://cisco.goffinet.org/ccna/quiz/)
 
-[Exo-1-](https://hackmd.io/w3M4_ajoQfSu4bUuxY9Wgw)
+[Exo-1](https://hackmd.io/w3M4_ajoQfSu4bUuxY9Wgw)
 
 ### Revision
 [Révision](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/HyzzRuVCv) -- 
