@@ -156,7 +156,7 @@
 
 
 ### COINT - HISTOIRE GEO
-[Formulaire/réponse article](https://docs.google.com/forms/d/1OIIFyx8OS_D1Y70eO7irLdTNjLL2p_R7GELxvDn5vS0/prefill)
+[Formulaire/réponse article](https://docs.google.com/forms/d/e/1FAIpQLSdI-iiZsRDmZcOa8JorGbGp3HCoDMuSrlrmici-TChusngjLA/viewform)
 
 ## STAGE - SUIVI - GUIDE
 
