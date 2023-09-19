@@ -109,6 +109,9 @@
 [GEPI](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/BJlZNZaIo)
 [Bruteforce](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/rk_tOcUz2)
 
+[Chiffrement](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/rkktPaBkT)
+
+
 #### Installation OS
 [Youtube Multiboot USB](https://youtube.com/playlist?list=PLkW6qBuit1ukyX32YBvTeDvVpgs3K6cR3)--
 #### Cisco
