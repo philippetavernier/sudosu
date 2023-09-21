@@ -164,3 +164,7 @@
 ## STAGE - SUIVI - GUIDE
 
 [Administratif](https://drive.google.com/drive/folders/0B9fj93mCrxamTk1qZ2JieHFHWVk?resourcekey=0-05VfEWJWGrdsWElyfhIhZw&usp=drive_link)
+
+# Administratif LP
+[Doc stage](https://drive.google.com/drive/folders/0B9fj93mCrxamTk1qZ2JieHFHWVk?resourcekey=0-05VfEWJWGrdsWElyfhIhZw&usp=sharing)
+
