@@ -117,7 +117,8 @@
 #### Cisco
 [Ressources Cisco](https://drive.google.com/drive/folders/0B9fj93mCrxambUZDS3dHeU81QXM?resourcekey=0-9jh48_rEDtxEpC91DvPmTQ)
 
-
+#### Cyber
+[Install Qu1cksc0pe](https://github.com/CYB3RMX/Qu1cksc0pe)
 
 #### Math
 
