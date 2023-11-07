@@ -168,12 +168,10 @@ sequence 2 :
 
 [Article  début de l'ordinateur ](https://www.lemonde.fr/blog/binaire/2018/07/16/la-naissance-du-numerique/#:~:text=En%201945%2C%20tirant%20les%20le%C3%A7ons,nom%20bien%20pratique%20d%27ordinateur.)
 
-[Formulaire de réponse sur l'aricle début de l'ordinateur](https://docs.google.com/forms/d/e/1FAIpQLSe98gV4QGzZpzPvO8Du3dOfw1ESoIn3btEjJC_UEcqWMYrAwg/viewform)
+[Formulaire de réponse sur l'article début de l'ordinateur](https://docs.google.com/forms/d/e/1FAIpQLSe98gV4QGzZpzPvO8Du3dOfw1ESoIn3btEjJC_UEcqWMYrAwg/viewform)
 
-## STAGE - SUIVI - GUIDE
 
-[Administratif](https://drive.google.com/drive/folders/0B9fj93mCrxamTk1qZ2JieHFHWVk?resourcekey=0-05VfEWJWGrdsWElyfhIhZw&usp=drive_link)
 
-# Administratif LP
+# Administratif STAGE - SUIVI - GUIDE
 [Doc stage](https://drive.google.com/drive/folders/0B9fj93mCrxamTk1qZ2JieHFHWVk?resourcekey=0-05VfEWJWGrdsWElyfhIhZw&usp=sharing)
 
