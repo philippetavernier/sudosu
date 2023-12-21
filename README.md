@@ -93,7 +93,11 @@
 
 [DOCKER](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/SJJbuSwG9)-->{[DOCKER](https://www.youtube.com/playlist?list=PLkW6qBuit1ukC52akLZfGkdxN8ElXS-e5)}
 
-[STREAMING](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/S1dkQcbDa)
+
+[AUDACITY - STREAMING](https://drive.google.com/drive/folders/0B9fj93mCrxamcm0yRENZZFd0Mmc?resourcekey=0-9xy2tB6z9HJInumqJdk86A&usp=drive_link)
+
+[STREAMING 2](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/S1dkQcbDa)
+
 [SERVICE SAMBA/NFS](https://hackmd.io/g9aN3idWSNKx-ZnxOhW-jA)
 
 [SERVICE VNC RDP](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/SJrkDs4W5) --> {[RDP](https://www.youtube.com/playlist?list=PLkW6qBuit1ulwcMAC70qoxO1nLwOoXzaj)
