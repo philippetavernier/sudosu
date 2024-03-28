@@ -3,7 +3,7 @@
 ## RISC
 ### COURS
 ---------
-[Historique](https://drive.google.com/drive/folders/0B9fj93mCrxamOFJYTWhQRzBGYzg?resourcekey=0-PE9kFh9GR_msQGcDxtD5Iw&usp=sharing)  -- [prise de note](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/Sy63FhZmF)-- [OS](https://drive.google.com/drive/folders/0B9fj93mCrxamXzhDdjdqWm9YX1E?resourcekey=0-U7qPMo-wjFPwii0F0iIUqA&usp=sharing) --  [Linux](https://drive.google.com/drive/folders/0B9fj93mCrxameDlRTTRXd3hJWDA?resourcekey=0-ZL6WJmmfXYGC7YpoM6zP2A&usp=sharing) -- [Virtualisation](https://drive.google.com/drive/folders/0B9fj93mCrxamNTFPdTNSNW4xUlk?resourcekey=0-U5fMFHc3miO8Sv-pTdMTMQ&usp=sharing)
+[Historique](https://drive.google.com/drive/folders/0B9fj93mCrxamOFJYTWhQRzBGYzg?resourcekey=0-PE9kFh9GR_msQGcDxtD5Iw&usp=sharing)  -- [prise de note](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/Sy63FhZmF)-- [cours inversé](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/B19E3iMkR) -- [OS](https://drive.google.com/drive/folders/0B9fj93mCrxamXzhDdjdqWm9YX1E?resourcekey=0-U7qPMo-wjFPwii0F0iIUqA&usp=sharing) --  [Linux](https://drive.google.com/drive/folders/0B9fj93mCrxameDlRTTRXd3hJWDA?resourcekey=0-ZL6WJmmfXYGC7YpoM6zP2A&usp=sharing) -- [Virtualisation](https://drive.google.com/drive/folders/0B9fj93mCrxamNTFPdTNSNW4xUlk?resourcekey=0-U5fMFHc3miO8Sv-pTdMTMQ&usp=sharing)
 
 [OSI](https://drive.google.com/drive/folders/0B9fj93mCrxamRjNJQjBwM3pYY28?resourcekey=0-cnjQXpBSQX7cBa1V-AZOCg&usp=sharing)
 
