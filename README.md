@@ -56,6 +56,8 @@
 
 [Exo-1](https://hackmd.io/w3M4_ajoQfSu4bUuxY9Wgw)
 
+[synthèse](https://hackmd.io/pGybLtPnSuuhTNHuacirxg?view)
+
 ### Revision
 [Révision](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/HyzzRuVCv) -- 
 [Révision Bac blanc](https://drive.google.com/drive/folders/1CnJQs6rEdv6tVHbOtSMsuBEK3vpMznPm?usp=sharing) --
