@@ -125,6 +125,12 @@
 
 [Packet tracer 2](https://drive.google.com/file/d/188J0H_Tax0cCMZ1LcMovcK2tVhySvQ-v/view?usp=drive_link)
 
+[Packet tracer 2 pour aller plus loin](https://drive.google.com/file/d/1sSST7As3XDltnhWF-W4Pczqk3jz1K7dE/view?usp=drive_link)
+
+[Packet tracer 3](https://drive.google.com/file/d/1pmJCeaMdaKHZ2Zw6ArDVmY77wOIRQRkU/view?usp=drive_link)
+
+[Packet tracer 3 pour aller plus loin](https://drive.google.com/file/d/129cFwgXUu69BAsdFLm0ryUb6w75HtGCx/view?usp=drive_link)
+
 
 #### Installation OS
 [Youtube Multiboot USB](https://youtube.com/playlist?list=PLkW6qBuit1ukyX32YBvTeDvVpgs3K6cR3)--
