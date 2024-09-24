@@ -17,7 +17,7 @@
 
 [Fibre](https://drive.google.com/drive/folders/0B9fj93mCrxamMzVBcVI1VndlSjA?resourcekey=0-4L7IcLEr4VnxxZDW8FCr1g&usp=sharing)  -- [Fabrication Fibre](https://youtu.be/6PAPntPLxvU)
 
-[Ethernet](https://drive.google.com/drive/folders/0B9fj93mCrxamMzVBcVI1VndlSjA?resourcekey=0-4L7IcLEr4VnxxZDW8FCr1g&usp=sharing) -- [WIFI](https://drive.google.com/drive/folders/0B9fj93mCrxamVFlhY1Q3VnJEc1E?resourcekey=0-9EAflIBkxwJ4RaW55VGLsw&usp=sharing)
+[Ethernet](https://drive.google.com/drive/folders/0B9fj93mCrxamMzVBcVI1VndlSjA?resourcekey=0-4L7IcLEr4VnxxZDW8FCr1g&usp=sharing) -- [WIFI](https://drive.google.com/drive/folders/0B9fj93mCrxamVFlhY1Q3VnJEc1E?resourcekey=0-9EAflIBkxwJ4RaW55VGLsw&usp=sharing) -- [NOTES WIFI](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/SkpQMTazY)
 
 [Adsl](https://drive.google.com/drive/folders/0B9fj93mCrxamNHlteDdkcUk5U0U?resourcekey=0-8pL1eADf9XJlL71aZrG-Fg&usp=sharing) -- [RNIS](https://drive.google.com/drive/folders/0B9fj93mCrxamSVVNRFlxVXdjdmc?resourcekey=0-6WlRTdRRzUBN1gP6SsbAjA&usp=sharing)  -- [RTC](https://drive.google.com/drive/folders/0B9fj93mCrxamMXNXNUhyVW9Yb0k?resourcekey=0-PRnePu2o6PMMjbWz6FvlYw&usp=sharing)
 
