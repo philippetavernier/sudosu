@@ -106,7 +106,7 @@
 
 [AUDACITY - STREAMING](https://drive.google.com/drive/folders/0B9fj93mCrxamcm0yRENZZFd0Mmc?resourcekey=0-9xy2tB6z9HJInumqJdk86A&usp=drive_link)
 
-[STREAMING 2](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/S1dkQcbDa)
+[[STREAMING 1]](https://drive.google.com/file/d/0B9fj93mCrxamWUdiOHFZRk83bkU/view?usp=sharing&resourcekey=0-2UtZk_4-zPxOykL_7u9htw)-- [STREAMING 2](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/S1dkQcbDa)
 
 [SERVICE SAMBA/NFS](https://hackmd.io/g9aN3idWSNKx-ZnxOhW-jA)
 
