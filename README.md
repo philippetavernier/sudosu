@@ -78,6 +78,9 @@
 
 ### TP
 ---------
+[Memo linux](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/rJ-6IAAmyl)
+
+
 #### Linux (Prise en main Bash + Scripting)
 [Linux](https://drive.google.com/drive/folders/0B9fj93mCrxamN1JVRG85YUpUanM?resourcekey=0-r0pnVdYEIPpRYteDmZBqNw) -- 
 [Ressources Linux](https://drive.google.com/drive/folders/0B9fj93mCrxamUU1NNEZ4VWxKc0k?resourcekey=0-e4dxMm9YJ5KkVel14S_Axg) -- 
