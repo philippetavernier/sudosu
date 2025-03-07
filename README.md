@@ -110,6 +110,8 @@
 
 PENTEST [PENTEST1](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/B1bnHiPY1x)
 
+ANACONDA [ANACONDA](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/S12-Xq_iJl)
+
 
 [AUDACITY - STREAMING](https://drive.google.com/drive/folders/0B9fj93mCrxamcm0yRENZZFd0Mmc?resourcekey=0-9xy2tB6z9HJInumqJdk86A&usp=drive_link)
 
