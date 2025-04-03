@@ -136,6 +136,9 @@ ANACONDA [ANACONDA](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/S12-Xq_iJl)
 
 [suivi](https://docs.google.com/spreadsheets/d/1aifWxnoh5PceL6tgPrYruIAgPogtdAWLcBejEA4DFMM/edit?usp=sharing)
 
+#### hardware
+[BIOS HP](https://support.hp.com/si-en/document/ish_3966820-3438449-16)
+
 #### Packet tracer
 [Packet tracer 1](https://drive.google.com/drive/folders/1kZBlx_eojGnWGQ9wo81a0BoTzhNlWzd8?usp=drive_link)
 
