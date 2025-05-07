@@ -112,10 +112,10 @@
 
 [DOCKER](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/SJJbuSwG9)-->{[DOCKER](https://www.youtube.com/playlist?list=PLkW6qBuit1ukC52akLZfGkdxN8ElXS-e5)}
 
-PENTEST [PENTEST1](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/B1bnHiPY1x)
-NMAP [NMAP](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/S16ahbSRkl)
+### Security
 
-ANACONDA [ANACONDA](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/S12-Xq_iJl)
+[PENTEST1](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/B1bnHiPY1x) -- [NMAP](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/S16ahbSRkl)
+
 
 
 [AUDACITY - STREAMING](https://drive.google.com/drive/folders/0B9fj93mCrxamcm0yRENZZFd0Mmc?resourcekey=0-9xy2tB6z9HJInumqJdk86A&usp=drive_link)
@@ -177,6 +177,12 @@ ANACONDA [ANACONDA](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/S12-Xq_iJl)
 -- [Notes Python](https://hackmd.io/kJEgd74zR-GO1k6NPl_jTg)
 
 
+### Programmation -- Algorithme
+
+#### Environnement.
+[ANACONDA](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/S12-Xq_iJl)
+
+
 #### Test
 [Histo](https://docs.google.com/forms/d/e/1FAIpQLSdFnDfw58SEMSgVxAM_veg1KIg3ZZZRsBHV4LO9LY3GMgcZAA/viewform)
 [Analyse de trame](https://docs.google.com/forms/d/e/1FAIpQLSfseY_SxTvEC3xN2lk85PHWRF_ZrnSEEu-Bw0D7zN8Nm9G_Hw/viewform)
@@ -195,10 +201,7 @@ ANACONDA [ANACONDA](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/S12-Xq_iJl)
 
 [1er Trim1](https://hackmd.io/6J-NM5nzQq-U7gNx3F2mAA?both) -- [suivi 1er](https://docs.google.com/spreadsheets/d/e/2PACX-1vS3KlwKSPRw1OhMCiOxRYVN6S_ElQF5DMNB6tdNpxvMsLdctrQJ6I3WCpejmzPO91LFWtkzzPxfL3d3/pubhtml?gid=0&single=true)
 
-### COINT - FRANCAIS
-
-
-
+### COINT - FRANCAIS - HISTOIRE GEO
 
 [Cybersecurité](https://drive.google.com/drive/folders/1mKeidLZd5zFi62WLKs5yBgdYYkKN6HGg)
 
@@ -208,18 +211,17 @@ Sequence 1 :
 sequence 2 :  
 [france-ioi.org](https://www.france-ioi.org/)
 
-### CHEF d'OEUVRE
-[Boite à idées Chef d'oeuvre](https://chat.openai.com/share/0058f9ca-e855-448e-8cc9-eeddc6a629bb
-)
-
-
-### COINT - HISTOIRE GEO
 [Formulaire/réponse article](https://docs.google.com/forms/d/e/1FAIpQLSdI-iiZsRDmZcOa8JorGbGp3HCoDMuSrlrmici-TChusngjLA/viewform)
 
 [Article  début de l'ordinateur ](https://www.lemonde.fr/blog/binaire/2018/07/16/la-naissance-du-numerique/#:~:text=En%201945%2C%20tirant%20les%20le%C3%A7ons,nom%20bien%20pratique%20d%27ordinateur.)
 
 [Formulaire de réponse sur l'article début de l'ordinateur](https://docs.google.com/forms/d/e/1FAIpQLSe98gV4QGzZpzPvO8Du3dOfw1ESoIn3btEjJC_UEcqWMYrAwg/viewform)
 
+
+
+### CHEF d'OEUVRE
+[Boite à idées Chef d'oeuvre](https://chat.openai.com/share/0058f9ca-e855-448e-8cc9-eeddc6a629bb
+)
 
 
 # Administratif STAGE - SUIVI - GUIDE
