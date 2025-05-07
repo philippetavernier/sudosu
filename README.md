@@ -96,25 +96,29 @@
 [Bash extended](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/S1CDMxAli)
 [Les Fichiers Texte](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/BJEZePaMs)
 
-#### Service réseau
+#### Service réseau 
+#### Prise de contrôle à distance
 [SSH](https://drive.google.com/drive/folders/0B9fj93mCrxamM1U0bk9rTHJlSE0?resourcekey=0-nG-bfkjVR-rV5dgZSZ0iLg&usp=sharing)  -- -- [SSH - HYDRA - FAILTOBAN](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/r1a9bTd5Y) --  [SSH -- Chiffrement](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/rkktPaBkT)
 
 [Resources service SSH, DHCP, FTP, TFTP](https://drive.google.com/drive/folders/0B9fj93mCrxamLUR6TTlYeWttTnc?resourcekey=0-txC3-ZtuQjL7XCYzIT97dg&usp=sharing)--
 {[Youtube SSH](https://www.youtube.com/playlist?list=PLkW6qBuit1uk7TlTsZ_8RgwX7GF4LtiIO) }
 
-[TFTP](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/rkXlA-LOyx)-- [TFTP old](https://drive.google.com/file/d/0B9fj93mCrxambFZiTmZBNUlOb2M/view?usp=sharing&resourcekey=0-Bck4t0O48-XIu2xSsHIK3w) --> [{TFTP}](https://www.youtube.com/watch?v=fjksTY4U54Y) --
+[SERVICE VNC RDP](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/SJrkDs4W5) --> {[RDP](https://www.youtube.com/playlist?list=PLkW6qBuit1ulwcMAC70qoxO1nLwOoXzaj)
+-- [VNC](https://www.youtube.com/playlist?list=PLkW6qBuit1ulY039DoppcI72zmovm5Hpg)}
 
 ##### WEB
 
 [APACHE](https://drive.google.com/file/d/0B9fj93mCrxamdUpVa0hWVFhSMlE/view?usp=sharing&resourcekey=0-v3WEWDq9ZjTFuiNxu1QNEw) --> {[APACHE](https://www.youtube.com/playlist?list=PLkW6qBuit1umAOvnWEVMlcYK7Yf6CMJZQ)}
 
 ##### Partage Fichier
+
+[TFTP](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/rkXlA-LOyx)-- [TFTP old](https://drive.google.com/file/d/0B9fj93mCrxambFZiTmZBNUlOb2M/view?usp=sharing&resourcekey=0-Bck4t0O48-XIu2xSsHIK3w) --> [{TFTP}](https://www.youtube.com/watch?v=fjksTY4U54Y) --
+
 [FTP](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/HkmvL3_ds)
 
 [SERVICE SAMBA/NFS](https://hackmd.io/g9aN3idWSNKx-ZnxOhW-jA)
 
-[SERVICE VNC RDP](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/SJrkDs4W5) --> {[RDP](https://www.youtube.com/playlist?list=PLkW6qBuit1ulwcMAC70qoxO1nLwOoXzaj)
--- [VNC](https://www.youtube.com/playlist?list=PLkW6qBuit1ulY039DoppcI72zmovm5Hpg)}
+
 
 [LOCAL STORAGE](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/HJKMuU37q)
 
