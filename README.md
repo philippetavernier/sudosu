@@ -97,12 +97,12 @@
 [Les Fichiers Texte](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/BJEZePaMs)
 
 #### Service réseau
-[SSH](https://drive.google.com/drive/folders/0B9fj93mCrxamM1U0bk9rTHJlSE0?resourcekey=0-nG-bfkjVR-rV5dgZSZ0iLg&usp=sharing)  --
+[SSH](https://drive.google.com/drive/folders/0B9fj93mCrxamM1U0bk9rTHJlSE0?resourcekey=0-nG-bfkjVR-rV5dgZSZ0iLg&usp=sharing)  -- -- [SSH - HYDRA - FAILTOBAN](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/r1a9bTd5Y) --  [SSH -- Chiffrement](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/rkktPaBkT)
 
+[Resources service SSH, DHCP, FTP, TFTP](https://drive.google.com/drive/folders/0B9fj93mCrxamLUR6TTlYeWttTnc?resourcekey=0-txC3-ZtuQjL7XCYzIT97dg&usp=sharing)--
+{[Youtube SSH]}(https://www.youtube.com/playlist?list=PLkW6qBuit1uk7TlTsZ_8RgwX7GF4LtiIO) 
 
 [TFTP](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/rkXlA-LOyx)-- [TFTP old](https://drive.google.com/file/d/0B9fj93mCrxambFZiTmZBNUlOb2M/view?usp=sharing&resourcekey=0-Bck4t0O48-XIu2xSsHIK3w) --> [{TFTP}](https://www.youtube.com/watch?v=fjksTY4U54Y) --
-[Resources service SSH, DHCP, FTP, TFTP](https://drive.google.com/drive/folders/0B9fj93mCrxamLUR6TTlYeWttTnc?resourcekey=0-txC3-ZtuQjL7XCYzIT97dg&usp=sharing)--
-[Youtube SSH](https://www.youtube.com/playlist?list=PLkW6qBuit1uk7TlTsZ_8RgwX7GF4LtiIO) -- [SSH - HYDRA - FAILTOBAN](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/r1a9bTd5Y) --
 
 ##### WEB
 
@@ -128,7 +128,8 @@
 
 #### Security
 
-[PENTEST1](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/B1bnHiPY1x) -- [NMAP](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/S16ahbSRkl)
+[PENTEST1](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/B1bnHiPY1x) -- [NMAP](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/S16ahbSRkl)  -- [Audit réseau](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/rk_tOcUz2)
+
 
 
 #### Streaming Audio - Video
@@ -138,10 +139,8 @@
 
 [USB MULTIBOT](https://www.youtube.com/watch?v=xEoZL-Ai45Y)
 
-[GEPI](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/BJlZNZaIo)
-[Audit réseau](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/rk_tOcUz2)
 
-[Chiffrement](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/rkktPaBkT)
+
 
 [suivi](https://docs.google.com/spreadsheets/d/1aifWxnoh5PceL6tgPrYruIAgPogtdAWLcBejEA4DFMM/edit?usp=sharing)
 
