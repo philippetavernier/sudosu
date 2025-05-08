@@ -30,7 +30,7 @@
 [Analyse de trame](https://drive.google.com/file/d/0B9fj93mCrxamUGVWY0QyYUhpdkk/view?resourcekey=0-t2U-dDM0RS1qWIMTcuVXLQ) ---
 [ANNEXE analyse de trames](https://drive.google.com/file/d/0B9fj93mCrxamb0hBVFRzem9VR1k/view?resourcekey=0-uWBQIFJ5kIZIhgqljVDJLQ)
 
-[Base/Conversion](https://drive.google.com/drive/folders/0B9fj93mCrxamQ1dkWVpFZVhiMlE?resourcekey=0-2BVBkVPiPwNzOQdbhfu5Ig&usp=sharing) --
+[Base/Conversion](https://drive.google.com/drive/folders/0B9fj93mCrxamQ1dkWVpFZVhiMlE?resourcekey=0-2BVBkVPiPwNzOQdbhfu5Ig&usp=sharing) -- [Exo-Débit](https://hackmd.io/w3M4_ajoQfSu4bUuxY9Wgw)
 [Cablage](https://drive.google.com/drive/folders/0B9fj93mCrxamWGVhdlZpYVhOdWM?resourcekey=0-KRpePphozfsUmmh4iSBTAw&usp=sharing) --  [Fibre](https://drive.google.com/drive/folders/0B9fj93mCrxamLW1YVW5rdWFzRWs?resourcekey=0-hWMvXK7wluu2yiciwZXbAA&usp=sharing)
 
 [Ethernet](https://drive.google.com/drive/folders/0B9fj93mCrxamWk5neExUcFQzNG8?resourcekey=0-rB4KUznrcgu2E-b-5SE-vw&usp=sharing) -- [WIFI](https://drive.google.com/drive/folders/0B9fj93mCrxamekRHb0RYVjBaRms?resourcekey=0-0OvvjN27-H_D3juwZO7l3A&usp=sharing) -- [ADSL](https://drive.google.com/drive/folders/0B9fj93mCrxamN1hyMGZnTGs4OFU?resourcekey=0-iEWX_CzfYFNLrgY_mD6-3w&usp=sharing)
@@ -54,7 +54,7 @@
 
 [QUIZZ](https://cisco.goffinet.org/ccna/quiz/)
 
-[Exo-1](https://hackmd.io/w3M4_ajoQfSu4bUuxY9Wgw)
+
 
 [synthèse](https://hackmd.io/pGybLtPnSuuhTNHuacirxg?view)
 
