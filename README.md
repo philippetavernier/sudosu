@@ -151,6 +151,11 @@
 #### hardware
 [BIOS HP](https://support.hp.com/si-en/document/ish_3966820-3438449-16)
 
+#### Installation OS
+[Youtube Multiboot USB](https://youtube.com/playlist?list=PLkW6qBuit1ukyX32YBvTeDvVpgs3K6cR3)--
+
+## CISCO
+
 #### Packet tracer
 [Packet tracer 1](https://drive.google.com/drive/folders/1kZBlx_eojGnWGQ9wo81a0BoTzhNlWzd8?usp=drive_link)
 
@@ -173,9 +178,7 @@
 [Packet tracer 4 WIFI](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/ry1-zpShyl)
 
 
-#### Installation OS
-[Youtube Multiboot USB](https://youtube.com/playlist?list=PLkW6qBuit1ukyX32YBvTeDvVpgs3K6cR3)--
-#### Cisco
+#### Ressources Cisco
 [Ressources Cisco](https://drive.google.com/drive/folders/0B9fj93mCrxambUZDS3dHeU81QXM?resourcekey=0-9jh48_rEDtxEpC91DvPmTQ)
 
 #### Cyber
@@ -185,8 +188,7 @@
 
 [Math in BASH 2](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/HyzcdvpVY)
 
-[Ressource Python](https://drive.google.com/drive/folders/0B9fj93mCrxamcTRVcWk3OHE5UEk?resourcekey=0-wC-2BcMAMyoofFm5pD92VA&usp=sharing)
--- [Notes Python](https://hackmd.io/kJEgd74zR-GO1k6NPl_jTg)
+
 
 
 ### Programmation -- Algorithme
@@ -194,8 +196,13 @@
 #### Environnement.
 [ANACONDA](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/S12-Xq_iJl)
 
+#### Python
 
-#### Test
+[Ressource Python](https://drive.google.com/drive/folders/0B9fj93mCrxamcTRVcWk3OHE5UEk?resourcekey=0-wC-2BcMAMyoofFm5pD92VA&usp=sharing)
+-- [Notes Python](https://hackmd.io/kJEgd74zR-GO1k6NPl_jTg)
+
+
+#### Test Eval
 [Histo](https://docs.google.com/forms/d/e/1FAIpQLSdFnDfw58SEMSgVxAM_veg1KIg3ZZZRsBHV4LO9LY3GMgcZAA/viewform)
 [Analyse de trame](https://docs.google.com/forms/d/e/1FAIpQLSfseY_SxTvEC3xN2lk85PHWRF_ZrnSEEu-Bw0D7zN8Nm9G_Hw/viewform)
 [IP-SSR](https://docs.google.com/forms/d/e/1FAIpQLScPOHCMO4KeQI90CZNNdug6_6LOQz_oauuVbIy15ayIYYbrrw/viewform)
