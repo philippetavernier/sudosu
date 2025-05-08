@@ -148,10 +148,9 @@
 
 [suivi](https://docs.google.com/spreadsheets/d/1aifWxnoh5PceL6tgPrYruIAgPogtdAWLcBejEA4DFMM/edit?usp=sharing)
 
-#### hardware
+#### hardware - Installation OS
 [BIOS HP](https://support.hp.com/si-en/document/ish_3966820-3438449-16)
 
-#### Installation OS
 [Youtube Multiboot USB](https://youtube.com/playlist?list=PLkW6qBuit1ukyX32YBvTeDvVpgs3K6cR3)--
 
 ## CISCO
