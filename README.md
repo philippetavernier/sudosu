@@ -83,11 +83,11 @@
 
 ### TP
 ---------
-[Memo linux](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/rJ-6IAAmyl)
+
 
 
 #### Linux (Prise en main Bash + Scripting)
-[Linux](https://drive.google.com/drive/folders/0B9fj93mCrxamN1JVRG85YUpUanM?resourcekey=0-r0pnVdYEIPpRYteDmZBqNw) -- 
+[Linux](https://drive.google.com/drive/folders/0B9fj93mCrxamN1JVRG85YUpUanM?resourcekey=0-r0pnVdYEIPpRYteDmZBqNw) -- [Memo linux](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/rJ-6IAAmyl) --
 [Ressources Linux](https://drive.google.com/drive/folders/0B9fj93mCrxamUU1NNEZ4VWxKc0k?resourcekey=0-e4dxMm9YJ5KkVel14S_Axg) -- 
 [Quizz Linux](https://docs.google.com/document/d/1fVuyJxCvD2joiuuaBnxCm1jfmyvJMxNM7HaBglz0vXc/edit#) --
 [Quizz - 2](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/HJi3EAHfF) 
