@@ -143,7 +143,7 @@
 
 [[STREAMING 1]](https://drive.google.com/file/d/0B9fj93mCrxamWUdiOHFZRk83bkU/view?usp=sharing&resourcekey=0-2UtZk_4-zPxOykL_7u9htw)-- [STREAMING 2](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/S1dkQcbDa)
 
-[USB MULTIBOT](https://www.youtube.com/watch?v=xEoZL-Ai45Y)
+
 
 
 
@@ -151,7 +151,7 @@
 #### hardware - Installation OS
 [BIOS HP](https://support.hp.com/si-en/document/ish_3966820-3438449-16)
 
-{[Youtube Multiboot USB](https://youtube.com/playlist?list=PLkW6qBuit1ukyX32YBvTeDvVpgs3K6cR3)}--
+{[Youtube Multiboot USB](https://youtube.com/playlist?list=PLkW6qBuit1ukyX32YBvTeDvVpgs3K6cR3)} -- {[USB MULTIBOT](https://www.youtube.com/watch?v=xEoZL-Ai45Y)}
 
 ## CISCO
 
