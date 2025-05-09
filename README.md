@@ -90,6 +90,7 @@
 [Linux](https://drive.google.com/drive/folders/0B9fj93mCrxamN1JVRG85YUpUanM?resourcekey=0-r0pnVdYEIPpRYteDmZBqNw) -- 
 [Ressources Linux](https://drive.google.com/drive/folders/0B9fj93mCrxamUU1NNEZ4VWxKc0k?resourcekey=0-e4dxMm9YJ5KkVel14S_Axg) -- 
 [Quizz Linux](https://docs.google.com/document/d/1fVuyJxCvD2joiuuaBnxCm1jfmyvJMxNM7HaBglz0vXc/edit#) --
+[Quizz - 2](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/HJi3EAHfF) 
 [Math in bash](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/SkybPHXNt) --
 [Youtube Bash Linux](https://www.youtube.com/playlist?list=PLkW6qBuit1ulKWw8vDeAm1y60Z6gkcgYB) --
 [Youtube Scripting Linux](https://www.youtube.com/watch?v=qblHERouR7A&list=PLkW6qBuit1un5mnx0mMPysn-g8Eo9mRE1) --
@@ -216,9 +217,8 @@
 [MATH](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/SJJgSLxCA)
 
 #### Suivi
-[Term trim1](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/HJi3EAHfF) -- [suivi Term](https://docs.google.com/spreadsheets/d/e/2PACX-1vSakljoUm8EXD8BGjqezDPIfCKABka09xvWvfs7n3iJJ6HwaZhA4EskUCJNFOiBbjTGs0PB2eO7p7xm/pubhtml?gid=0&single=true)
+-- [suivi Term](https://docs.google.com/spreadsheets/d/e/2PACX-1vSakljoUm8EXD8BGjqezDPIfCKABka09xvWvfs7n3iJJ6HwaZhA4EskUCJNFOiBbjTGs0PB2eO7p7xm/pubhtml?gid=0&single=true)
 
-[1er Trim1](https://hackmd.io/6J-NM5nzQq-U7gNx3F2mAA?both) -- [suivi 1er](https://docs.google.com/spreadsheets/d/e/2PACX-1vS3KlwKSPRw1OhMCiOxRYVN6S_ElQF5DMNB6tdNpxvMsLdctrQJ6I3WCpejmzPO91LFWtkzzPxfL3d3/pubhtml?gid=0&single=true)
 
 ### COINT - FRANCAIS - HISTOIRE GEO
 
