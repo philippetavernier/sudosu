@@ -75,12 +75,12 @@
 ---------
 
 #### Editeur
-[EMACS](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/S1w7jkTJee)
 
-[Consigne](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/B1WW-Qgfs)
-[Ressources LOGIN](https://drive.google.com/drive/folders/1AZ2hYMFhQgcidCk0IfmvIwmxa4X0ibKj?usp=sharing)
+[EMACS](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/S1w7jkTJee) -- [Ressources LOGIN](https://drive.google.com/drive/folders/1AZ2hYMFhQgcidCk0IfmvIwmxa4X0ibKj?usp=sharing)
 
-[trame](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/B1WW-Qgfs)
+[Vi-nano](https://drive.google.com/file/d/0B9fj93mCrxamWkdKRWs1NlIxUVU/view?usp=drive_link&resourcekey=0-ot-OtDTPJhQCCXYzelkVYw)
+
+[Lecture LOGIN P46-73](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/B1WW-Qgfs)
 
 #### Test Eval
 -----------
