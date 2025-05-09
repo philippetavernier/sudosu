@@ -81,10 +81,24 @@
 
 [trame](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/B1WW-Qgfs)
 
+#### Test Eval
+-----------
+[Histo](https://docs.google.com/forms/d/e/1FAIpQLSdFnDfw58SEMSgVxAM_veg1KIg3ZZZRsBHV4LO9LY3GMgcZAA/viewform)
+[Analyse de trame](https://docs.google.com/forms/d/e/1FAIpQLSfseY_SxTvEC3xN2lk85PHWRF_ZrnSEEu-Bw0D7zN8Nm9G_Hw/viewform)
+[IP-SSR](https://docs.google.com/forms/d/e/1FAIpQLScPOHCMO4KeQI90CZNNdug6_6LOQz_oauuVbIy15ayIYYbrrw/viewform)
+[Conversion](https://docs.google.com/forms/d/e/1FAIpQLSebnRtR-ZQrUX_ZetmY0JBVdgpA39A-LGOb0b1R6rWn-uYRjg/viewform)
+[debit](https://docs.google.com/forms/d/e/1FAIpQLScRBgCO74ENsy4Ig65aE1-2WsIGbRAJu83gSRu4sPHCHMD16A/viewform)
+[Fibre](https://docs.google.com/forms/d/e/1FAIpQLSc6azNmeWxwJEiWSXbYzwuqB8NjpwsPP56ZJNFRETHTlREnFw/viewform)
+[codage](https://docs.google.com/forms/d/e/1FAIpQLSen_ojcu_DLC4kIIBbWMnS7ixPh4UW2CSzMGMZC7hbJo-f26w/viewform)
+[VOIP](https://docs.google.com/forms/d/e/1FAIpQLSfagNzNWJAhVFVdBkagbNkp2NiOJQM2J-aZxg3hK4RjwDzi-w/viewform)
+[IPV6](https://docs.google.com/forms/d/e/1FAIpQLSeaPS0DrJuq4kzC8Wh3GPI2rp2bBropgCWH7XTKxeEzcgbCTA/viewform)
+[IPV4](https://docs.google.com/forms/d/e/1FAIpQLSczJR4hgyPT4hgNBpj_1u4mdcFFTY3W4BC5hXuxzIRe3JrhJg/viewform)
+[MATH](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/SJJgSLxCA)
+
+
+
 ### TP
 ---------
-
-
 
 #### Linux (Prise en main Bash + Scripting)
 [Linux](https://drive.google.com/drive/folders/0B9fj93mCrxamN1JVRG85YUpUanM?resourcekey=0-r0pnVdYEIPpRYteDmZBqNw) -- [Memo linux](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/rJ-6IAAmyl) --
@@ -183,38 +197,28 @@
 
 
 
-### Math
 
+
+
+
+## Programmation -- Algorithme
+----
+### Math
 [Math in BASH 2](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/HyzcdvpVY)
 
 
-
-
-### Programmation -- Algorithme
-
-#### Environnement.
+### Environnement.
 [ANACONDA](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/S12-Xq_iJl)
 
-#### Python
+### Python
 
 [Ressource Python](https://drive.google.com/drive/folders/0B9fj93mCrxamcTRVcWk3OHE5UEk?resourcekey=0-wC-2BcMAMyoofFm5pD92VA&usp=sharing)
 -- [Notes Python](https://hackmd.io/kJEgd74zR-GO1k6NPl_jTg)
 
 
-#### Test Eval
-[Histo](https://docs.google.com/forms/d/e/1FAIpQLSdFnDfw58SEMSgVxAM_veg1KIg3ZZZRsBHV4LO9LY3GMgcZAA/viewform)
-[Analyse de trame](https://docs.google.com/forms/d/e/1FAIpQLSfseY_SxTvEC3xN2lk85PHWRF_ZrnSEEu-Bw0D7zN8Nm9G_Hw/viewform)
-[IP-SSR](https://docs.google.com/forms/d/e/1FAIpQLScPOHCMO4KeQI90CZNNdug6_6LOQz_oauuVbIy15ayIYYbrrw/viewform)
-[Conversion](https://docs.google.com/forms/d/e/1FAIpQLSebnRtR-ZQrUX_ZetmY0JBVdgpA39A-LGOb0b1R6rWn-uYRjg/viewform)
-[debit](https://docs.google.com/forms/d/e/1FAIpQLScRBgCO74ENsy4Ig65aE1-2WsIGbRAJu83gSRu4sPHCHMD16A/viewform)
-[Fibre](https://docs.google.com/forms/d/e/1FAIpQLSc6azNmeWxwJEiWSXbYzwuqB8NjpwsPP56ZJNFRETHTlREnFw/viewform)
-[codage](https://docs.google.com/forms/d/e/1FAIpQLSen_ojcu_DLC4kIIBbWMnS7ixPh4UW2CSzMGMZC7hbJo-f26w/viewform)
-[VOIP](https://docs.google.com/forms/d/e/1FAIpQLSfagNzNWJAhVFVdBkagbNkp2NiOJQM2J-aZxg3hK4RjwDzi-w/viewform)
-[IPV6](https://docs.google.com/forms/d/e/1FAIpQLSeaPS0DrJuq4kzC8Wh3GPI2rp2bBropgCWH7XTKxeEzcgbCTA/viewform)
-[IPV4](https://docs.google.com/forms/d/e/1FAIpQLSczJR4hgyPT4hgNBpj_1u4mdcFFTY3W4BC5hXuxzIRe3JrhJg/viewform)
-[MATH](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/SJJgSLxCA)
 
 #### Suivi
+---
 [Suivi 1er](https://docs.google.com/spreadsheets/d/1aifWxnoh5PceL6tgPrYruIAgPogtdAWLcBejEA4DFMM/edit?usp=sharing) -- [suivi Term](https://docs.google.com/spreadsheets/d/e/2PACX-1vSakljoUm8EXD8BGjqezDPIfCKABka09xvWvfs7n3iJJ6HwaZhA4EskUCJNFOiBbjTGs0PB2eO7p7xm/pubhtml?gid=0&single=true)
 
 
