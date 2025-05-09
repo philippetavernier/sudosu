@@ -148,12 +148,10 @@
 
 
 
-[suivi](https://docs.google.com/spreadsheets/d/1aifWxnoh5PceL6tgPrYruIAgPogtdAWLcBejEA4DFMM/edit?usp=sharing)
-
 #### hardware - Installation OS
 [BIOS HP](https://support.hp.com/si-en/document/ish_3966820-3438449-16)
 
-[Youtube Multiboot USB](https://youtube.com/playlist?list=PLkW6qBuit1ukyX32YBvTeDvVpgs3K6cR3)--
+{[Youtube Multiboot USB](https://youtube.com/playlist?list=PLkW6qBuit1ukyX32YBvTeDvVpgs3K6cR3)}--
 
 ## CISCO
 
@@ -217,7 +215,7 @@
 [MATH](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/SJJgSLxCA)
 
 #### Suivi
--- [suivi Term](https://docs.google.com/spreadsheets/d/e/2PACX-1vSakljoUm8EXD8BGjqezDPIfCKABka09xvWvfs7n3iJJ6HwaZhA4EskUCJNFOiBbjTGs0PB2eO7p7xm/pubhtml?gid=0&single=true)
+[Suivi 1er](https://docs.google.com/spreadsheets/d/1aifWxnoh5PceL6tgPrYruIAgPogtdAWLcBejEA4DFMM/edit?usp=sharing) -- [suivi Term](https://docs.google.com/spreadsheets/d/e/2PACX-1vSakljoUm8EXD8BGjqezDPIfCKABka09xvWvfs7n3iJJ6HwaZhA4EskUCJNFOiBbjTGs0PB2eO7p7xm/pubhtml?gid=0&single=true)
 
 
 ### COINT - FRANCAIS - HISTOIRE GEO
