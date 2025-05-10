@@ -71,18 +71,10 @@
 [sujet 2023](https://drive.google.com/drive/folders/1m_xDJK58kyr_DrTldzX-FDmPuIPP9ThV?usp=sharing)
 
 
-### TP // TD
----------
-
-#### Editeur
-
-[EMACS](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/S1w7jkTJee) -- [Ressources LOGIN](https://drive.google.com/drive/folders/1AZ2hYMFhQgcidCk0IfmvIwmxa4X0ibKj?usp=sharing)
-
-[Vi-nano](https://drive.google.com/file/d/0B9fj93mCrxamWkdKRWs1NlIxUVU/view?usp=drive_link&resourcekey=0-ot-OtDTPJhQCCXYzelkVYw)
 
 
 
-#### Test Eval
+### Test Eval
 -----------
 [Histo](https://docs.google.com/forms/d/e/1FAIpQLSdFnDfw58SEMSgVxAM_veg1KIg3ZZZRsBHV4LO9LY3GMgcZAA/viewform)
 [Analyse de trame](https://docs.google.com/forms/d/e/1FAIpQLSfseY_SxTvEC3xN2lk85PHWRF_ZrnSEEu-Bw0D7zN8Nm9G_Hw/viewform)
@@ -160,7 +152,11 @@
 [[STREAMING 1]](https://drive.google.com/file/d/0B9fj93mCrxamWUdiOHFZRk83bkU/view?usp=sharing&resourcekey=0-2UtZk_4-zPxOykL_7u9htw)-- [STREAMING 2](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/S1dkQcbDa)
 
 
+#### Editeur
 
+[EMACS](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/S1w7jkTJee) -- [Ressources LOGIN](https://drive.google.com/drive/folders/1AZ2hYMFhQgcidCk0IfmvIwmxa4X0ibKj?usp=sharing)
+
+[Vi-nano](https://drive.google.com/file/d/0B9fj93mCrxamWkdKRWs1NlIxUVU/view?usp=drive_link&resourcekey=0-ot-OtDTPJhQCCXYzelkVYw)
 
 
 
