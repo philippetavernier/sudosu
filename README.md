@@ -112,7 +112,7 @@
 [Resources service SSH, DHCP, FTP, TFTP](https://drive.google.com/drive/folders/0B9fj93mCrxamLUR6TTlYeWttTnc?resourcekey=0-txC3-ZtuQjL7XCYzIT97dg&usp=sharing)--
 {[Youtube SSH](https://www.youtube.com/playlist?list=PLkW6qBuit1uk7TlTsZ_8RgwX7GF4LtiIO) }
 
-[SERVICE VNC RDP](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/SJrkDs4W5) --> {[RDP](https://www.youtube.com/playlist?list=PLkW6qBuit1ulwcMAC70qoxO1nLwOoXzaj)
+[RDP](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/SJrkDs4W5)  [VNC](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/H1HQYX0exe)--> {[RDP](https://www.youtube.com/playlist?list=PLkW6qBuit1ulwcMAC70qoxO1nLwOoXzaj)
 -- [VNC](https://www.youtube.com/playlist?list=PLkW6qBuit1ulY039DoppcI72zmovm5Hpg)}
 
 ##### WEB
