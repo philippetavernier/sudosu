@@ -138,7 +138,7 @@
 
 [DOCKER Prise en main](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/SJJbuSwG9) 
 
-Vidéo-->{[DOCKER](https://www.youtube.com/playlist?list=PLkW6qBuit1ukC52akLZfGkdxN8ElXS-e5)}
+{Vidéo docker}-->{[DOCKER](https://www.youtube.com/playlist?list=PLkW6qBuit1ukC52akLZfGkdxN8ElXS-e5)}
 
 [DOKER WEB]
 
