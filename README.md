@@ -250,3 +250,7 @@ sequence 2 :
 # Administratif STAGE - SUIVI - GUIDE
 [Doc stage](https://drive.google.com/drive/folders/0B9fj93mCrxamTk1qZ2JieHFHWVk?resourcekey=0-05VfEWJWGrdsWElyfhIhZw&usp=sharing)
 
+
+### Auteur à lire
+
+[Isaac Asimov](https://fr.wikipedia.org/wiki/Isaac_Asimov)
