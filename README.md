@@ -199,7 +199,9 @@
 
 
 
+## 2nd
 
+[sequences 2nd](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/HkYhLqpcxx)
 
 
 ## Programmation -- Algorithme
