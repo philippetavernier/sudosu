@@ -139,6 +139,7 @@
 [DOCKER Prise en main 1](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/SJJbuSwG9) -- 
 [DOCKER Prise en main 2](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/HkiKm2H9xg) -- 
 [DOCKER Prise en main 3](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/Hki338d9gl)  --
+[DOCKER Prise en main 4](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/Hku-86mhll)  --
 
 {Vidéo docker}-->{[DOCKER](https://www.youtube.com/playlist?list=PLkW6qBuit1ukC52akLZfGkdxN8ElXS-e5)}
 
